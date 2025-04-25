@@ -1,6 +1,5 @@
 require "nvchad.options"
+require("ruscmd").setup{}
 
--- add yours here!
+vim.opt.relativenumber = true
 
--- local o = vim.o
--- o.cursorlineopt ='both' -- to enable cursorline!
